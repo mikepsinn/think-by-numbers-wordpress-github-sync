@@ -2,16 +2,12 @@
 ID: 35
 post_title: The Hedonistic Imperative
 author: Mike P. Sinn
-post_date: 2012-11-25 18:41:10
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/solutions/the-hedonistic-imperative/
+  https://thinkbynumbers.org/solutions/the-hedonistic-imperative/
 published: true
-bfa_virtual_template:
-  - hierarchy
-dsq_thread_id:
-  - "5303225040"
+post_date: 2012-11-25 18:41:10
 ---
 One of the most cost effective solutions that will be evaluated by the Crowdsourcing Utopia system is David Pearce's <a href="http://web.archive.org/web/20161019211101/https://www.hedweb.com/">Hedonistic Imperative</a>. ability to control the motivational and reward systems in the brain.
 

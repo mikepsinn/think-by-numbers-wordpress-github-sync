@@ -2,14 +2,12 @@
 ID: 8242
 post_title: Drink by Numbers!
 author: Mike P. Sinn
-post_date: 2013-02-28 16:36:49
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/monkey-business/drink-by-numbers/
+  https://thinkbynumbers.org/monkey-business/drink-by-numbers/
 published: true
-dsq_thread_id:
-  - "1823025061"
+post_date: 2013-02-28 16:36:49
 ---
 In response to recent allegations that Anheuser-Busch has been watering down its beer to boost profits, my lab used gas chromatography with flame ion detection to determine if this was indeed the case. Our analyses suggest with greater than 99% certainty that Budweiser is, and shall remain, the king of beers. Beer lovers around the world can continue to drink soundly with the knowledge that their euphoria and elevated levels of self-confidence are in no way psychosomatically induced.  Based on our findings, I am confident in saying that Budweiser will continue to be the cause of (and solution to) all of life's little problems.
 

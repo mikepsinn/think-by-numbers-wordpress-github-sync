@@ -2,40 +2,12 @@
 ID: 14
 post_title: 'Get Society Rich Quick: The Ideal Level of Government Spending'
 author: Mike P. Sinn
-post_date: 2012-04-17 14:56:00
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/economics/gdp/ideal-level-of-government-spending/
+  https://thinkbynumbers.org/economics/gdp/ideal-level-of-government-spending/
 published: true
-blogger_blog:
-  - truthdamntruthandstatistics.blogspot.com
-blogger_permalink:
-  - >
-    /2010/10/ideal-level-of-government-spending.html
-views:
-  - "1484"
-wordbooker_options:
-  - 'a:8:{s:18:"wordbook_noncename";s:10:"88893fe3be";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:2:"10";s:19:"wordbook_actionlink";s:3:"100";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:0:"";}'
-ratings_users:
-  - "0"
-ratings_score:
-  - "0"
-ratings_average:
-  - "0"
-wordbooker_thumb:
-  - >
-    http://thinkbynumbers.org/wp-content/uploads/2010/10/Total-Government-Expenditure-as-a-Percent-of-GDP-vs-Growth-Rate-90x90.gif
-ks_metadata:
-  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:63:"government,growth,economic,gdp,spending,expenditures,human,data";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:159:"government spending is good for the economy but the statistics show the opposite. Most recent studies find a negative correlation between total government size";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
-Hide SexyBookmarks:
-  - "0"
-Hide OgTags:
-  - "0"
-dsq_thread_id:
-  - "1505007117"
-slide_template:
-  - ""
+post_date: 2012-04-17 14:56:00
 ---
 <div>
 

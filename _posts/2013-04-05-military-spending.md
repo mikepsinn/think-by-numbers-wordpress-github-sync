@@ -5,37 +5,15 @@ post_title: >
   Murdering Us and Destroying Our Property
   Annually
 author: Mike P. Sinn
-post_date: 2013-04-05 22:53:44
 post_excerpt: >
   World governments are spending $1.8
   TRILLION each year finding ways to
   murder us and destroy our property.
 layout: post
 permalink: >
-  http://thinkbynumbers.org/military/military-spending/
+  https://thinkbynumbers.org/military/military-spending/
 published: true
-wdfb_published_on_fb:
-  - "1"
-wdfb_og_custom_value:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_name:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_description:
-  - ""
-wdfb_og_title:
-  - ""
-wdfb_og_type:
-  - ""
-wdfb_og_images:
-  - 'a:1:{i:0;s:0:"";}'
-dsq_thread_id:
-  - "1646006851"
-slide_template:
-  - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2013-04-05 22:53:44
 ---
 <p dir="ltr">Dear Decent American Citizen,</p>
 

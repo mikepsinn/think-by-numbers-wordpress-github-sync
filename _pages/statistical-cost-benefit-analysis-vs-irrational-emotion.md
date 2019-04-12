@@ -2,67 +2,12 @@
 ID: 217
 post_title: Why Think by Numbers?
 author: Mike P. Sinn
-post_date: 2011-09-25 01:54:38
 post_excerpt: ""
 layout: page
 permalink: >
-  http://thinkbynumbers.org/statistical-cost-benefit-analysis-vs-irrational-emotion/
+  https://thinkbynumbers.org/statistical-cost-benefit-analysis-vs-irrational-emotion/
 published: true
-wordbooker_options:
-  - 'a:8:{s:18:"wordbook_noncename";s:10:"51af01d235";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:2:"10";s:19:"wordbook_actionlink";s:3:"100";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:0:"";}'
-  - 'a:8:{s:18:"wordbook_noncename";s:10:"51af01d235";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:2:"10";s:19:"wordbook_actionlink";s:3:"100";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:0:"";}'
-ratings_users:
-  - "0"
-  - "0"
-ratings_score:
-  - "0"
-  - "0"
-ratings_average:
-  - "0"
-  - "0"
-wordbooker_thumb:
-  - >
-    http://thinkbynumbers.org/wp-content/uploads/2011/09/The-Triune-Brain-Final-web-90x90.jpg
-  - >
-    http://thinkbynumbers.org/wp-content/uploads/2011/09/The-Triune-Brain-Final-web-90x90.jpg
-dsq_thread_id:
-  - "1505007188"
-  - "1505007188"
-wdfb_og_title:
-  - ""
-  - ""
-wdfb_og_type:
-  - ""
-  - ""
-wdfb_og_description:
-  - ""
-  - ""
-wdfb_og_images:
-  - 'a:1:{i:0;s:0:"";}'
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_name:
-  - 'a:1:{i:0;s:0:"";}'
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_value:
-  - 'a:1:{i:0;s:0:"";}'
-  - 'a:1:{i:0;s:0:"";}'
-enclosure:
-  - |
-    http://thinkbynumbers.org/wp-content/uploads/2016/10/tbn013_why_think_by_numbers.mp3
-    15158172
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:20:58";}
-  - |
-    http://thinkbynumbers.org/wp-content/uploads/2016/10/tbn013_why_think_by_numbers.mp3
-    15158172
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:20:58";}
-slide_template:
-  - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2011-09-25 01:54:38
 ---
 <h3>Numbers cannot lie.</h3>
 

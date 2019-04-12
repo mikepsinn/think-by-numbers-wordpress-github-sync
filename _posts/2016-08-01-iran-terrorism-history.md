@@ -2,32 +2,12 @@
 ID: 1913
 post_title: 'Iran US Foreign Relations: A History of Violence'
 author: Mike P. Sinn
-post_date: 2016-08-01 12:30:49
 post_excerpt: 'Many Americans consider Iran to be a psychopathically violent nation that would be willing to commit suicide in order to kill as many Americans as possible.  The statistics behind historical Iranian US relations do not support this view.'
 layout: post
 permalink: >
-  http://thinkbynumbers.org/military/war/iran-terrorism-history/
+  https://thinkbynumbers.org/military/war/iran-terrorism-history/
 published: true
-wdfb_og_images:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_description:
-  - ""
-dsq_thread_id:
-  - "1505007394"
-wdfb_og_title:
-  - ""
-wdfb_og_custom_value:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_name:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_type:
-  - ""
-slide_template:
-  - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2016-08-01 12:30:49
 ---
 Many Americans consider Iran to be a psychopathically violent nation that would be willing to commit suicide in order to kill as many Americans as possible.  The statistics behind historical Iranian US relations do not support this view.
 

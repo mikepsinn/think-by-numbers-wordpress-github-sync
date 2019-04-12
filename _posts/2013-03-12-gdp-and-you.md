@@ -2,14 +2,12 @@
 ID: 8269
 post_title: GDP and You!
 author: Mike P. Sinn
-post_date: 2013-03-12 18:43:36
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/economics/gdp-and-you/
+  https://thinkbynumbers.org/economics/gdp-and-you/
 published: true
-dsq_thread_id:
-  - "1554269193"
+post_date: 2013-03-12 18:43:36
 ---
 <a href="https://en.wikipedia.org/wiki/Gross_domestic_product">Gross domestic product</a> (GDP) is the <a title="Market value" href="https://en.wikipedia.org/wiki/Market_value">value</a> of all final goods and services produced within a country.
 

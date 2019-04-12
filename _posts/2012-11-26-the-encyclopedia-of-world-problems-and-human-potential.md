@@ -4,16 +4,12 @@ post_title: >
   The Encyclopedia of World Problems and
   Human Potential
 author: Mike P. Sinn
-post_date: 2012-11-26 14:57:01
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/tools/the-encyclopedia-of-world-problems-and-human-potential/
+  https://thinkbynumbers.org/tools/the-encyclopedia-of-world-problems-and-human-potential/
 published: true
-bfa_virtual_template:
-  - hierarchy
-dsq_thread_id:
-  - "5259234314"
+post_date: 2012-11-26 14:57:01
 ---
 <blockquote>The <a href="http://www.un-intelligible.org/projects/homeency.php">Encyclopedia of World Problems and Human Potential</a> was the result of an ambitious effort to collect and present information on the problems with which humanity perceives itself to be confronted. It aims to clarify the challenges such problems represent to concepts, values and development strategies. The Encyclopedia encourages the discovery of a new conceptual dynamic for understanding and action, sufficiently complex to encompass the factions, conflicts and paradigms by which people are separated -- both from each other and from a promising future.
 

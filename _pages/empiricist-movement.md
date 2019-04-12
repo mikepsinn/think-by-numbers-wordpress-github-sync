@@ -2,15 +2,12 @@
 ID: 2746
 post_title: The Empiricist Movement
 author: Mike P. Sinn
-post_date: 2012-11-11 20:58:46
 post_excerpt: ""
 layout: page
 permalink: >
-  http://thinkbynumbers.org/empiricist-movement/
+  https://thinkbynumbers.org/empiricist-movement/
 published: true
-dsq_thread_id:
-  - "1505569362"
-  - "1505569362"
+post_date: 2012-11-11 20:58:46
 ---
 Notable sites of The Empiricist Movement — Organisations that share a similar goal of basing societal human and material resource allocation using the art of rationality combined with hard statistical data, rather than ideological political dogma.  Please submit others in the comments section!
 

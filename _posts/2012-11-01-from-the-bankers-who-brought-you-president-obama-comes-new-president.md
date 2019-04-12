@@ -4,20 +4,12 @@ post_title: >
   From the Bankers Who Brought You
   President Obama Comes NEW PRESIDENT™!
 author: Mike P. Sinn
-post_date: 2012-11-01 13:50:15
 post_excerpt: 'Governor Romney™ has been scientifically proven to increase spending faster than the President Obama™! Obama has only increased government spending a disappointing 5.5% annually over his term.'
 layout: post
 permalink: >
-  http://thinkbynumbers.org/government-spending/from-the-bankers-who-brought-you-president-obama-comes-new-president/
+  https://thinkbynumbers.org/government-spending/from-the-bankers-who-brought-you-president-obama-comes-new-president/
 published: true
-dsq_thread_id:
-  - "1508308489"
-slide_template:
-  - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2012-11-01 13:50:15
 ---
 <p style="text-align: center;"><a href="http://thinkbynumbers.org/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic.jpg">
 </a><a href="http://thinkbynumbers.org/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic.jpg"><img class="alignnone wp-image-2543 size-full" title="Obamney - Obama &amp; Romney: Spending &amp; Contributors Infographic" src="http://thinkbynumbers.org/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic.jpg" width="960" height="320" /></a></p>

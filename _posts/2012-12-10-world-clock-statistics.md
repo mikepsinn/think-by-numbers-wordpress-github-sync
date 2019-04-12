@@ -4,14 +4,12 @@ post_title: >
   Every World Statistic You Could Ever
   Dream Of (In Real Time)!
 author: Mike P. Sinn
-post_date: 2012-12-10 16:08:48
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/government-spending/world-clock-statistics/
+  https://thinkbynumbers.org/government-spending/world-clock-statistics/
 published: true
-dsq_thread_id:
-  - "1653523044"
+post_date: 2012-12-10 16:08:48
 ---
 A multitude of constantly updated world statistics that puts the current state of human existence—on this lonely blue orb—in tidy perspective!
 

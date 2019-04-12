@@ -2,14 +2,11 @@
 ID: 2336
 post_title: Vote!
 author: Mike P. Sinn
-post_date: 2012-10-14 23:28:48
 post_excerpt: ""
 layout: page
-permalink: http://thinkbynumbers.org/vote-2/
+permalink: https://thinkbynumbers.org/vote-2/
 published: true
-dsq_thread_id:
-  - "1508745701"
-  - "1508745701"
+post_date: 2012-10-14 23:28:48
 ---
 <h1>Voting for Comments</h1>
 

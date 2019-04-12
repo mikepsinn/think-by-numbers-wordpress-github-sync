@@ -2,16 +2,12 @@
 ID: 1
 post_title: The Wisdom of Crowds
 author: Mike P. Sinn
-post_date: 2012-11-24 01:40:17
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/books/wisdom-of-crowds/
+  https://thinkbynumbers.org/books/wisdom-of-crowds/
 published: true
-bfa_virtual_template:
-  - hierarchy
-dsq_thread_id:
-  - "5262972728"
+post_date: 2012-11-24 01:40:17
 ---
 <em><strong>The Wisdom of Crowds </strong></em>is about the aggregation of information in groups, resulting in decisions that are often better than could have been made by any single member of the group.
 

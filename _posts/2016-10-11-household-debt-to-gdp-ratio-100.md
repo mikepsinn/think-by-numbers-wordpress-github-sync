@@ -2,44 +2,12 @@
 ID: 10
 post_title: 'US Financial Crisis: Who Killed the Economy?'
 author: Mike P. Sinn
-post_date: 2016-10-11 23:39:00
 post_excerpt: "The cause of the US financial crisis is simple. It's debt. This is a very simple and graphical evidence-based explanation of what caused the collapse."
 layout: post
 permalink: >
-  http://thinkbynumbers.org/debt/household-debt-to-gdp-ratio-100/
+  https://thinkbynumbers.org/debt/household-debt-to-gdp-ratio-100/
 published: true
-blogger_blog:
-  - truthdamntruthandstatistics.blogspot.com
-blogger_permalink:
-  - >
-    /2009/03/household-debt-to-gdp-ratio-100.html
-views:
-  - "602"
-ks_metadata:
-  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:54:"debt,money,financial,people,loans,make,banks,borrowing";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:157:"debt. This is a very simple and graphical evidence-based explanation of what caused the collapse. The massive increase in the level of consumer debt prior to";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
-Hide SexyBookmarks:
-  - "0"
-Hide OgTags:
-  - "0"
-wordbooker_options:
-  - 'a:1:{s:18:"wordbook_noncename";s:10:"83eadfb07d";}'
-ratings_users:
-  - "0"
-ratings_score:
-  - "0"
-ratings_average:
-  - "0"
-wordbooker_thumb:
-  - >
-    http://thinkbynumbers.org/wp-content/uploads/2009/03/debt-income-ratio-90x90.jpg
-dsq_thread_id:
-  - "1505007595"
-slide_template:
-  - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2016-10-11 23:39:00
 ---
 The cause of the US financial crisis is simple. It's debt. This is a very simple and graphical evidence-based explanation of what caused the collapse.
 

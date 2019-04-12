@@ -4,57 +4,12 @@ post_title: >
   What Would Have Happened If We Let AIG
   Fail?
 author: Mike P. Sinn
-post_date: 2009-04-13 17:29:00
 post_excerpt: "The average household in America had to shell out around $2000 to make sure that AIG's counter-parties wouldn't have to accept the risks they took."
 layout: post
 permalink: >
-  http://thinkbynumbers.org/government-spending/corporate-welfare/what-would-happen-if-we-let-aig-fail/
+  https://thinkbynumbers.org/government-spending/corporate-welfare/what-would-happen-if-we-let-aig-fail/
 published: true
-blogger_blog:
-  - truthdamntruthandstatistics.blogspot.com
-blogger_permalink:
-  - >
-    /2009/04/what-would-happen-if-we-let-aig-fail.html
-views:
-  - "317"
-wordbooker_options:
-  - 'a:1:{s:18:"wordbook_noncename";s:10:"83eadfb07d";}'
-ratings_users:
-  - "0"
-ratings_score:
-  - "0"
-ratings_average:
-  - "0"
-Hide SexyBookmarks:
-  - "0"
-Hide OgTags:
-  - "0"
-dsq_thread_id:
-  - "1505006991"
-enclosure:
-  - |
-    http://thinkbynumbers.org/wp-content/uploads/2016/10/tbn008_what_if_aig_failed.mp3
-    6282017
-    audio/mpeg
-    a:1:{s:8:"duration";s:8:"00:06:27";}
-wdfb_og_title:
-  - ""
-wdfb_og_type:
-  - ""
-wdfb_og_description:
-  - ""
-wdfb_og_images:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_name:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_value:
-  - 'a:1:{i:0;s:0:"";}'
-slide_template:
-  - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2009-04-13 17:29:00
 ---
 <p style="text-align: center;">The average household in America had to shell out around $2000 to make sure that AIG's counter-parties wouldn't have to accept the risks they took.  Would the world really have ended if we let AIG declare Chapter 11 bankruptcy?<a href="http://thinkbynumbers.org/wp-content/uploads/2009/04/aig-bailout-infographic.jpg"><img class="size-full wp-image-183 aligncenter" title="AIG Bailout Infographic" src="http://thinkbynumbers.org/wp-content/uploads/2009/04/aig-bailout-infographic.jpg" alt="AIG Bailout Infographic: Total Money Spent More Than $170 Billion" width="590" height="322" /></a></p>
 

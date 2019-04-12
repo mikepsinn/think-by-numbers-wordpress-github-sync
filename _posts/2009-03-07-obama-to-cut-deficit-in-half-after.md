@@ -2,29 +2,12 @@
 ID: 8
 post_title: 'Obama to cut deficit in half&#8230; After quadrupling it.'
 author: Mike P. Sinn
-post_date: 2009-03-07 22:27:00
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/uncategorized/obama-to-cut-deficit-in-half-after/
+  https://thinkbynumbers.org/uncategorized/obama-to-cut-deficit-in-half-after/
 published: true
-blogger_blog:
-  - truthdamntruthandstatistics.blogspot.com
-blogger_permalink:
-  - >
-    /2009/03/obama-to-cut-deficit-in-half-after.html
-views:
-  - "2"
-wordbooker_options:
-  - 'a:1:{s:18:"wordbook_noncename";s:10:"83eadfb07d";}'
-dsq_thread_id:
-  - "5258835308"
-slide_template:
-  - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2009-03-07 22:27:00
 ---
 "Obama plans to slash deficit in half" is the title of this AP story. The attribution of fiscal responsibility to our current president is rather misleading.
 

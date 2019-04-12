@@ -4,16 +4,12 @@ post_title: >
   How to Overcome Bias in Crowdsoucing
   Participants
 author: Mike P. Sinn
-post_date: 2012-11-24 17:15:44
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/obstacles/how-to-overcome-bias-in-crowdsoucing-participants/
+  https://thinkbynumbers.org/obstacles/how-to-overcome-bias-in-crowdsoucing-participants/
 published: true
-bfa_virtual_template:
-  - hierarchy
-dsq_thread_id:
-  - "5292509939"
+post_date: 2012-11-24 17:15:44
 ---
 <div>Here are some problems that Sebastian Nickel brought up with regard to using collective intelligence for decision making:</div>
 

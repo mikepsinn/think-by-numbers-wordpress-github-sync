@@ -2,56 +2,13 @@
 ID: 6
 post_title: The Future of US Government Debt
 author: Mike P. Sinn
-post_date: 2009-02-28 20:20:00
 post_excerpt: |
   Those who say "These are extraordinary times. We can't afford to worry about the national debt now. We'll be in a better position to deal with that later." should check out these projections.
 layout: post
 permalink: >
-  http://thinkbynumbers.org/economics/gdp/debt-to-gdp-forecast-chart/
+  https://thinkbynumbers.org/economics/gdp/debt-to-gdp-forecast-chart/
 published: true
-blogger_blog:
-  - truthdamntruthandstatistics.blogspot.com
-blogger_permalink:
-  - /2009/02/debt-to-gdp-forecast-chart.html
-views:
-  - "134"
-wordbooker_options:
-  - 'a:8:{s:18:"wordbook_noncename";s:10:"6b1f29665a";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:2:"10";s:19:"wordbook_actionlink";s:3:"100";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:0:"";}'
-ratings_users:
-  - "0"
-ratings_score:
-  - "0"
-ratings_average:
-  - "0"
-wordbooker_thumb:
-  - >
-    http://thinkbynumbers.org/wp-content/uploads/2009/02/Debt-to-GDP-Forecast-Chart-90x90.png
-dsq_thread_id:
-  - "1714294808"
-wdfb_og_title:
-  - ""
-wdfb_og_type:
-  - ""
-wdfb_og_description:
-  - ""
-wdfb_og_images:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_name:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_value:
-  - 'a:1:{i:0;s:0:"";}'
-enclosure:
-  - |
-    http://thinkbynumbers.org/wp-content/uploads/2016/10/tbn002_us_national_debt.mp3
-    1144356
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:01:31";}
-slide_template:
-  - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2009-02-28 20:20:00
 ---
 Those defending the huge budget deficit incurred by the massive federal stimulus package often say, "These are extraordinary times. We can't afford to worry about the national debt now. We'll be in a better position to deal with that later."
 

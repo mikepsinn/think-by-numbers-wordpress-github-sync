@@ -2,20 +2,17 @@
 ID: 62
 post_title: 'ALGONOMY: A FRAMEWORK FOR DEALING WITH SUFFERING'
 author: Mike P. Sinn
-post_date: 2012-11-26 14:54:22
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/tools/algonomy-a-framework-for-dealing-with-suffering/
+  https://thinkbynumbers.org/tools/algonomy-a-framework-for-dealing-with-suffering/
 published: true
-bfa_virtual_template:
-  - hierarchy
-dsq_thread_id:
-  - "5303251551"
+post_date: 2012-11-26 14:54:22
 ---
 From <a href="http://algosphere.org/" target="_blank">algosphere.org</a>:
 
 <strong>ALGONOMY : A FRAMEWORK FOR DEALING WITH SUFFERING</strong>
+
 <blockquote>
 <p align="justify"><span style="font-family: Arial; font-size: small;">A</span><span style="color: #000000; font-family: Arial; font-size: small;">ll major spheres of human activity deal in one way or another with suffering:</span></p>
 <p align="justify"><span style="color: #000000; font-family: Arial; font-size: small;">politics, religion, healthcare, social affairs, economics, law, art, literature, philosophy, ethics, the news media, environmental studies, education, science, history, war, crime, work, sport, interpersonal relationships, personal life, etc.</span></p>
@@ -33,18 +30,18 @@ Algonomy is a framework that allows to deal with knowledge and action about suff
 <p align="justify"><span style="font-size: small;">To sum up, algonomy is an innovative conceptual framework with the following key uses:</span></p>
 
 <ul>
-	<li dir="ltr">
+    <li dir="ltr">
 <p align="justify"><span style="font-family: Arial; font-size: small;">It is a framework for a methodical approach, useful for dealing with suffering in a general, universal, systematic, well-ordered, permanent manner, and for dealing with suffering as a primary object of concern, subordinate to no other.</span></p>
 </li>
 </ul>
 <ul>
-	<li dir="ltr">
+    <li dir="ltr">
 <p align="justify"><span style="color: #000000; font-family: Arial;"><span style="font-family: Arial; font-size: small;">It is a framework for theoretical learning, useful for studying all that pertains to suffering, as well as for developing skills that are related to this kind of knowledge.</span></span></p>
 </li>
-	<li dir="ltr">
+    <li dir="ltr">
 <p align="justify"><span style="font-family: Arial; font-size: small;">It is a framework for strategic planning, useful for designing systematic action about suffering.</span></p>
 </li>
-	<li dir="ltr">
+    <li dir="ltr">
 <p align="justify"><span style="font-family: Arial; font-size: small;">It is a framework for practical action, useful for carrying out interventions that are concerned with the phenomenon of suffering itself.</span></p>
 </li>
 </ul>

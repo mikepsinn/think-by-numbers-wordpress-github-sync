@@ -2,32 +2,12 @@
 ID: 8293
 post_title: 'NEWS FLASH: US Government Wastes $1.5 Trillion on Devastating Drug War'
 author: Mike P. Sinn
-post_date: 2013-04-04 21:01:10
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/government-spending/drug-war-statistics/
+  https://thinkbynumbers.org/government-spending/drug-war-statistics/
 published: true
-wdfb_og_custom_value:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_name:
-  - 'a:1:{i:0;s:0:"";}'
-dsq_thread_id:
-  - "1508865168"
-wdfb_og_images:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_description:
-  - ""
-wdfb_og_type:
-  - ""
-wdfb_og_title:
-  - ""
-slide_template:
-  - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2013-04-04 21:01:10
 ---
 <p id="header">Dear President Obama,</p>
 

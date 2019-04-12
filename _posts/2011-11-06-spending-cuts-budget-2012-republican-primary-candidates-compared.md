@@ -2,7 +2,6 @@
 ID: 1123
 post_title: 'GOP Presidential Candidates&#8217; Budget Plans EXPOSED!!!'
 author: Mike P. Sinn
-post_date: 2011-11-06 18:52:13
 post_excerpt: >
   GOP Candidate Ron Paul has produced a
   detailed budget containing over $1
@@ -13,48 +12,9 @@ post_excerpt: >
   average of $20 billion a year.
 layout: post
 permalink: >
-  http://thinkbynumbers.org/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared/
+  https://thinkbynumbers.org/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared/
 published: true
-Hide SexyBookmarks:
-  - "0"
-Hide OgTags:
-  - "0"
-views:
-  - "898"
-ratings_users:
-  - "0"
-ratings_score:
-  - "0"
-ratings_average:
-  - "0"
-ks_metadata:
-  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:71:"gop candidates,washington spending,government taxes,government spending";s:19:"keywords_autoupdate";s:1:"0";s:11:"description";s:154:"Ron Paul plans to cut over $1 trillion in his first-year. Rick Perry has proposed $50 billion in cuts. Romney, Cain, and Gingrich want to cut $20 billion.";s:22:"description_autoupdate";s:1:"0";s:5:"title";s:51:"Spending Cuts by 2012 Republican Primary Candidates";s:6:"robots";s:12:"index,follow";}'
-dsq_thread_id:
-  - "1505006996"
-wdfb_og_custom_value:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_name:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_images:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_description:
-  - ""
-wdfb_og_type:
-  - ""
-wdfb_og_title:
-  - ""
-slide_template:
-  - default
-enclosure:
-  - |
-    http://thinkbynumbers.org/wp-content/uploads/2016/10/tbn012_presidential_plans_compared.mp3
-    28526750
-    audio/mpeg
-    a:1:{s:8:"duration";s:8:"00:29:37";}
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2011-11-06 18:52:13
 ---
 <p style="text-align: left;">GOP Candidate Ron Paul has produced a detailed budget containing over <a href="http://www.campaignforliberty.org/the-issues/ron-paul-plan-to-restore-america/">$1 trillion</a> in first-year reductions. Mitt Romney,&nbsp;Rick Santorum, and Newt Gingrich have only indicated that they would attempt to repeal Obamacare saving an average of <a href="https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act#Effect_on_national_spending">$20 billion</a> a year.</p>
 

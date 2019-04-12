@@ -2,7 +2,6 @@
 ID: 8476
 post_title: Why Think by Numbers?
 author: Mike P. Sinn
-post_date: 2013-06-25 18:34:02
 post_excerpt: >
   A world without disease, starvation,
   violence, and suffering is the ultimate
@@ -14,34 +13,9 @@ post_excerpt: >
   reality.
 layout: post
 permalink: >
-  http://thinkbynumbers.org/empiricism-2/why-think-by-numbers/
+  https://thinkbynumbers.org/empiricism-2/why-think-by-numbers/
 published: true
-wdfb_og_images:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_name:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_value:
-  - 'a:1:{i:0;s:0:"";}'
-enclosure:
-  - |
-    http://thinkbynumbers.org/wp-content/uploads/2016/10/tbn013_why_think_by_numbers.mp3
-    15158172
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:20:58";}
-dsq_thread_id:
-  - "1651054001"
-wdfb_og_description:
-  - ""
-wdfb_og_type:
-  - ""
-wdfb_og_title:
-  - ""
-slide_template:
-  - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2013-06-25 18:34:02
 ---
 <h3>Numbers cannot lie.</h3>
 

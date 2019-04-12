@@ -5,51 +5,12 @@ post_title: >
   Programs As A Good Place To Cut
   Government Spending
 author: Mike P. Sinn
-post_date: 2011-09-06 22:29:41
 post_excerpt: '15% of likely U.S. voters think the federal government should continue to provide funding for foreign countries to buy military weapons from U.S. companies. Seventy percent (70%) oppose this funding to promote U.S. arms sales.'
 layout: post
 permalink: >
-  http://thinkbynumbers.org/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports/
+  https://thinkbynumbers.org/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports/
 published: true
-wordbooker_options:
-  - 'a:8:{s:18:"wordbook_noncename";s:10:"4680a0d5f2";s:18:"wordbook_page_post";s:4:"-100";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:2:"10";s:19:"wordbook_actionlink";s:3:"100";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:0:"";}'
-ratings_users:
-  - "0"
-ratings_score:
-  - "0"
-ratings_average:
-  - "0"
-views:
-  - "238"
-wordbooker_thumb:
-  - >
-    http://thinkbynumbers.org/wp-content/uploads/2011/09/socialism-rich-90x90.jpg
-dsq_thread_id:
-  - "1741297428"
-wdfb_og_title:
-  - ""
-wdfb_og_type:
-  - ""
-wdfb_og_description:
-  - ""
-wdfb_og_images:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_name:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_value:
-  - 'a:1:{i:0;s:0:"";}'
-enclosure:
-  - |
-    http://thinkbynumbers.org/wp-content/uploads/2016/10/tbn010_cut_corporate_welfare.mp3
-    2241550
-    audio/mpeg
-    a:1:{s:8:"duration";s:8:"00:02:12";}
-slide_template:
-  - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2011-09-06 22:29:41
 ---
 <span class="Apple-style-span" style="line-height: 18px;"><img class="size-medium wp-image-245 alignleft" style="border-style: initial; border-color: initial;" title="Socialism for the Rich. Capitalism for the Rest." src="http://thinkbynumbers.org/wp-content/uploads/2011/09/socialism-rich-300x232.jpg" alt="Socialism for the Rich. Capitalism for the Rest." width="300" height="232" /></span>
 

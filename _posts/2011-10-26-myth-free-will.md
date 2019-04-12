@@ -4,26 +4,12 @@ post_title: >
   Are You Reading this of Your Own Free
   Will?
 author: Mike P. Sinn
-post_date: 2011-10-26 11:11:50
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/psychology/myth-free-will/
+  https://thinkbynumbers.org/psychology/myth-free-will/
 published: true
-Hide OgTags:
-  - "0"
-Hide SexyBookmarks:
-  - "0"
-views:
-  - "245"
-ratings_users:
-  - "0"
-ratings_score:
-  - "0"
-ratings_average:
-  - "0"
-dsq_thread_id:
-  - "1668250883"
+post_date: 2011-10-26 11:11:50
 ---
 Patterns of brain ac­ti­vity pre­dict peo­ple’s de­ci­sions up to 10 sec­onds be­fore the peo­ple are aware of them, ac­cord­ing to new re­search that casts fresh doubt on whether we have free will.
 

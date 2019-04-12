@@ -2,16 +2,12 @@
 ID: 53
 post_title: Felicific Calculus
 author: Mike P. Sinn
-post_date: 2012-11-25 21:50:41
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/tools/felicific-calculus/
+  https://thinkbynumbers.org/tools/felicific-calculus/
 published: true
-bfa_virtual_template:
-  - hierarchy
-dsq_thread_id:
-  - "5260931021"
+post_date: 2012-11-25 21:50:41
 ---
 <div id="siteSub"></div>
 

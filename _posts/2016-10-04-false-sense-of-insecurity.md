@@ -4,63 +4,12 @@ post_title: >
   Anti-Terrorism Spending 50,000 Times
   More Than on Any Other Cause of Death
 author: Mike P. Sinn
-post_date: 2016-10-04 09:40:00
 post_excerpt: 'The US spends more than $500 million per victim on anti-terrorism efforts.  However, cancer research spending is only $10,000 per victim.  Evolutionary psychology may offer an explanation for this irrational threat amplification.'
 layout: post
 permalink: >
-  http://thinkbynumbers.org/government-spending/false-sense-of-insecurity/
+  https://thinkbynumbers.org/government-spending/false-sense-of-insecurity/
 published: true
-blogger_blog:
-  - truthdamntruthandstatistics.blogspot.com
-blogger_permalink:
-  - /2008/03/false-sense-of-insecurity.html
-views:
-  - "342"
-wordbooker_options:
-  - 'a:8:{s:18:"wordbook_noncename";s:10:"e9a286df0e";s:18:"wordbook_page_post";s:15:"227151724000676";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:2:"10";s:19:"wordbook_actionlink";s:3:"300";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:0:"";}'
-ratings_users:
-  - "0"
-ratings_score:
-  - "0"
-ratings_average:
-  - "0"
-ks_metadata:
-  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:61:"000,terrorism,threat,death,disease,resources,government,human";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:151:"000 per victim. Evolutionary psychology may offer an explanation for this irrational threat amplification. But first a message from NATIONAL REPUBLICAn";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
-wordbooker_thumb:
-  - >
-    http://thinkbynumbers.org/wp-content/uploads/2008/03/False-Sense-of-Insecurity-90x90.jpg
-sharing_disabled:
-  - "1"
-Hide SexyBookmarks:
-  - "0"
-Hide OgTags:
-  - "0"
-dsq_thread_id:
-  - "1505007628"
-wdfb_og_custom_value:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_name:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_images:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_description:
-  - ""
-wdfb_og_type:
-  - ""
-wdfb_og_title:
-  - ""
-slide_template:
-  - default
-enclosure:
-  - |
-    http://thinkbynumbers.org/wp-content/uploads/2016/10/tbn001_anti_terroism_spending.mp3
-    8981398
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:12:11";}
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2016-10-04 09:40:00
 ---
 <div dir="ltr">
 <div dir="ltr">

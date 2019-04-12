@@ -4,28 +4,12 @@ post_title: >
   Fraudulent Defense Contractors Paid $1
   Trillion
 author: Mike P. Sinn
-post_date: 2011-10-21 02:45:18
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/military/fraudulent-defense-contractors-paid-1-trillion/
+  https://thinkbynumbers.org/military/fraudulent-defense-contractors-paid-1-trillion/
 published: true
-ks_metadata:
-  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:62:"fraud,defense,sanders,contractors,paid,pentagon,report,billion";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:152:"fraud cases that resulted in judgments of more than $1 million, $398 billion of which was awarded after settlement or judgment for fraud. When awards to";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
-Hide SexyBookmarks:
-  - "0"
-Hide OgTags:
-  - "0"
-ratings_users:
-  - "0"
-ratings_score:
-  - "0"
-ratings_average:
-  - "0"
-views:
-  - "674"
-dsq_thread_id:
-  - "1646014929"
+post_date: 2011-10-21 02:45:18
 ---
 Bernie Sanders - U.S. Senator for Vermont
 

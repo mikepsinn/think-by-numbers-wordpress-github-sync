@@ -2,28 +2,12 @@
 ID: 992
 post_title: 'What Really Causes Terrorism? It&#8217;s Not Your Freedom.'
 author: Mike P. Sinn
-post_date: 2012-01-17 05:56:07
 post_excerpt: '95% of suicide terrorist attacks are targeted at occupying foreign militaries.  0% of suicide terrorist attacks have been directed at countries not militarily involved in geopolitical disputes.'
 layout: post
 permalink: >
-  http://thinkbynumbers.org/terrorism/suicide-terrorism-statistics/
+  https://thinkbynumbers.org/terrorism/suicide-terrorism-statistics/
 published: true
-Hide SexyBookmarks:
-  - "0"
-Hide OgTags:
-  - "0"
-ks_metadata:
-  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:64:"suicide,attacks,military,terrorist,forces,saudi,terrorism,threat";s:19:"keywords_autoupdate";s:1:"1";s:11:"description";s:156:"suicide terrorist attacks is foreign military occupation. Robert Pape at the University of Chicago, with funding from the Department of Defense, has created";s:22:"description_autoupdate";s:1:"1";s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
-views:
-  - "2"
-dsq_thread_id:
-  - "1505007610"
-slide_template:
-  - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2012-01-17 05:56:07
 ---
 <h3>FACT 1: 95% of suicide terrorist attacks are targeted at occupying foreign militaries.</h3>
 

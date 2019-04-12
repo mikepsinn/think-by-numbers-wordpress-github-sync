@@ -4,26 +4,12 @@ post_title: >
   How Much Direct Suffering Is Caused by
   Various Animal Foods?
 author: Mike P. Sinn
-post_date: 2013-09-13 00:56:05
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/utilitarianism/direct-suffering-caused-animal-foods/
+  https://thinkbynumbers.org/utilitarianism/direct-suffering-caused-animal-foods/
 published: true
-Hide SexyBookmarks:
-  - "0"
-Hide OgTags:
-  - "0"
-views:
-  - "1"
-dsq_thread_id:
-  - "1754013805"
-slide_template:
-  - default
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2013-09-13 00:56:05
 ---
 <p style="text-align: left;" align="center">This is a rigorous analysis from the brilliant utilitarian mind of <a href="http://briantomasik.com/">Brian Tomasik</a> originally published at <a href="http://reducing-suffering.org/">http://www.utilitarian-essays.com</a> in 2005. I made this graph in 2007 to try to illustrate his point visually.</p>
 

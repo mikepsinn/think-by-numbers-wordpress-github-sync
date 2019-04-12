@@ -2,16 +2,15 @@
 ID: 8196
 post_title: $2.3 Trillion Missing from Pentagon
 author: Mike P. Sinn
-post_date: 2013-01-25 18:51:04
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/military/cbs-news-2-3-trillion-missing-from-pentagon/
+  https://thinkbynumbers.org/military/cbs-news-2-3-trillion-missing-from-pentagon/
 published: true
-dsq_thread_id:
-  - "1508544467"
+post_date: 2013-01-25 18:51:04
 ---
 http://youtu.be/XXm2yaoWyN8
+
 <blockquote>On Sept. 10, Secretary of Defense Donald Rumsfeld declared war. Not on foreign terrorists, "the adversary's closer to home. It's the Pentagon bureaucracy," he said.
 
 He said money wasted by the military poses a serious threat.

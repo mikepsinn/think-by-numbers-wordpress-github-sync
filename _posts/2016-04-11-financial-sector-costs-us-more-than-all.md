@@ -4,60 +4,12 @@ post_title: >
   Financial Sector Costs Us More than Any
   Other Sector In Economy
 author: Mike P. Sinn
-post_date: 2016-04-11 22:24:00
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/government-spending/corporate-welfare/financial-sector-costs-us-more-than-all/
+  https://thinkbynumbers.org/government-spending/corporate-welfare/financial-sector-costs-us-more-than-all/
 published: true
-blogger_blog:
-  - truthdamntruthandstatistics.blogspot.com
-blogger_permalink:
-  - >
-    /2009/04/financial-sector-costs-us-more-than-all.html
-views:
-  - "270"
-wordbooker_options:
-  - 'a:11:{s:18:"wordbook_noncename";s:10:"6b1f29665a";s:18:"wordbook_page_post";s:15:"227151724000676";s:18:"wordbook_orandpage";s:1:"2";s:23:"wordbook_default_author";s:1:"2";s:23:"wordbook_extract_length";s:3:"400";s:19:"wordbook_actionlink";s:3:"300";s:26:"wordbooker_publish_default";s:2:"on";s:27:"wordbooker_publish_override";s:2:"on";s:18:"wordbook_attribute";s:0:"";s:29:"wordbooker_status_update_text";s:0:"";s:20:"wordbook_comment_get";s:2:"on";}'
-ratings_users:
-  - "0"
-ratings_score:
-  - "0"
-ratings_average:
-  - "0"
-wordbooker_thumb:
-  - >
-    http://thinkbynumbers.org/wp-content/uploads/2009/04/fat_banker-90x90.jpg
-wordbooker_extract:
-  - |
-    The financial sector receives more of the average paycheck than any other sector of the economy.  Its share of the economy totals $2 trillion dollars.
-    
-    From 1973 to 1985, the financial sector earned less than 16 percent of domestic corporate profits. In the 1990s, it oscillated between 21 percent and 30 percent, higher than it had ever been in the postwar period. This decade, it reached  ...
-dsq_thread_id:
-  - "1505006993"
-wdfb_og_title:
-  - ""
-wdfb_og_type:
-  - ""
-wdfb_og_description:
-  - ""
-wdfb_og_images:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_name:
-  - 'a:1:{i:0;s:0:"";}'
-wdfb_og_custom_value:
-  - 'a:1:{i:0;s:0:"";}'
-slide_template:
-  - default
-enclosure:
-  - |
-    http://thinkbynumbers.org/wp-content/uploads/2016/10/tbn007_financial_sector_costs.mp3
-    
-    audio/mpeg
-sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
-sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:1:"0";}'
+post_date: 2016-04-11 22:24:00
 ---
 <div dir="ltr" style="text-align: left;">
 

@@ -2,12 +2,12 @@
 ID: 8637
 post_title: World Press (and Pothi) Freedom Index
 author: Mike P. Sinn
-post_date: 2012-08-06 04:28:41
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/freedom-of-speech/world-press-and-pothi-freedom-index/
+  https://thinkbynumbers.org/freedom-of-speech/world-press-and-pothi-freedom-index/
 published: true
+post_date: 2012-08-06 04:28:41
 ---
 <blockquote><a href="http://thinkbynumbers.org/wp-content/uploads/2014/08/Press-freedom-speech-propaganda-poster.jpg"><img class="alignright size-medium wp-image-8647" src="http://web.archive.org/web/20141215023121/http://thinkbynumbers.org/wp-content/uploads/2014/08/Press-freedom-speech-propaganda-poster-230x300-1407292210.jpg" alt="Press freedom speech propaganda poster" width="230" height="300" /></a>All censorships exist to prevent anyone from challenging current conceptions and existing institutions. All progress is initiated by challenging current conceptions, and executed by supplanting existing institutions. Consequently, the first condition of progress is the removal of censorship.” ― <a href="https://www.goodreads.com/author/show/5217.George_Bernard_Shaw">George Bernard Shaw</a></blockquote>
 

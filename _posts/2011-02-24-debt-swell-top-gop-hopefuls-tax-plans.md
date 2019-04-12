@@ -4,14 +4,12 @@ post_title: >
   Debt Will Swell Under Top GOP
   Hopefuls’ Tax Plans
 author: Mike P. Sinn
-post_date: 2011-02-24 18:47:51
 post_excerpt: ""
 layout: post
 permalink: >
-  http://thinkbynumbers.org/debt/debt-swell-top-gop-hopefuls-tax-plans/
+  https://thinkbynumbers.org/debt/debt-swell-top-gop-hopefuls-tax-plans/
 published: true
-dsq_thread_id:
-  - "1656927361"
+post_date: 2011-02-24 18:47:51
 ---
 The <a href="https://www.washingtonpost.com/business/economy/running-in-the-red-how-the-us-on-the-road-to-surplus-detoured-to-massive-debt/2011/04/28/AFFU7rNF_story.html">national debt would</a> balloon under <a href="https://www.washingtonpost.com/politics/romney-obama-release-dueling-tax-overhaul-proposals/2012/02/22/gIQAKOLrTR_story.html">tax policies</a> championed by three of the four major Republican candidates for president, according to an independent analysis of tax and spending proposals so far offered by the campaigns.
 
