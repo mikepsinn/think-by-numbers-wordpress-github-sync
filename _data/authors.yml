@@ -1,0 +1,17 @@
+# Authors
+
+mikepsinn:
+  name: Mike P. Sinn
+  picture: "/wp-content/uploads/mike-p-sinn-photo.jpg"
+  email: m@thinkbynumbers.org
+  twitter: thinkbynumbers
+  links:
+  - title: Twitter
+    url: https://twitter.com/thinkbynumbers
+    icon: fab fa-twitter-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/mikesinn/
+    icon: fab fa-linkedin
+  - title: GitHub
+    url: https://github.com/mikepsinn
+    icon: fab fa-github-square
