@@ -1,19 +1,30 @@
 ---
-ID: 251
-post_title: >
-  Keynsian Creationism and Intelligently
-  Design Economies
+id: 251
+title: Keynsian Creationism and Intelligently Design Economies
+date: 2013-03-16T04:03:20+00:00
 author: Mike P. Sinn
-post_excerpt: "The mythology of effective Keynesian centralized economic planning is born of the same mother as the mythology of creationist intelligent design.  Both of these fantasies arise as a result of the human mind's inability to deal with complex systems."
+excerpt: "The mythology of effective Keynesian centralized economic planning is born of the same mother as the mythology of creationist intelligent design.  Both of these fantasies arise as a result of the human mind's inability to deal with complex systems."
 layout: post
-permalink: >
-  https://thinkbynumbers.org/economics/keynsian-creationism-and-intelligently-design-economies/
-published: true
-post_date: 2013-03-16 04:03:20
+guid: https://thinkbynumbers.org/?p=251
+permalink: /economics/keynsian-creationism-and-intelligently-design-economies/
+wdsi_do_not_show:
+  - ""
+bfa_virtual_template:
+  - hierarchy
+dsq_thread_id:
+  - "5258816412"
+slide_template:
+  - default
+sbg_selected_sidebar:
+  - 'a:1:{i:0;s:1:"0";}'
+sbg_selected_sidebar_replacement:
+  - 'a:1:{i:0;s:1:"0";}'
+categories:
+  - Economics
 ---
-The mythology of effective <a href="https://en.wikipedia.org/wiki/Keynsianism">Keynesian</a> centralized economic planning is born of the same mother as the mythology of <a href="https://en.wikipedia.org/wiki/Creationism">creationist</a> intelligent design.  Both of these fantasies arise as a result of the human mind's inability to deal with complex systems.
+The mythology of effective [Keynesian](https://en.wikipedia.org/wiki/Keynsianism) centralized economic planning is born of the same mother as the mythology of [creationist](https://en.wikipedia.org/wiki/Creationism) intelligent design.  Both of these fantasies arise as a result of the human mind's inability to deal with complex systems.
 
-Evolution and economics are just two forms of a larger phenomenon called <a href="https://en.wikipedia.org/wiki/Complex_adaptive_system">complex adaptive systems</a>, in which individual elements interact, process information and adapt their behavior to changing conditions. Immune systems, ecosystems, language, the law, and the Internet are other examples of complex adaptive systems.
+Evolution and economics are just two forms of a larger phenomenon called [complex adaptive systems](https://en.wikipedia.org/wiki/Complex_adaptive_system), in which individual elements interact, process information and adapt their behavior to changing conditions. Immune systems, ecosystems, language, the law, and the Internet are other examples of complex adaptive systems.
 
 Intuitively, it just seems impossible that millions of tiny economic actors just acting in their own interests could produce something as amazingly productive as the global economy.  Keynesians have a religious faith that our society’s unimaginable wealth must be a result of the conscious efforts of a top-down intelligent designer, the Federal Reserve, creating order in the chaos of the free market.
 
